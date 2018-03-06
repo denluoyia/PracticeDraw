@@ -8,7 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/PracticeDraw1" />
+            <option value="$PROJECT_DIR$/PracticeDraw2" />
+            <option value="$PROJECT_DIR$/PracticeDraw3" />
+            <option value="$PROJECT_DIR$/PracticeDraw4" />
+            <option value="$PROJECT_DIR$/PracticeDraw5" />
+            <option value="$PROJECT_DIR$/PracticeDraw6" />
+            <option value="$PROJECT_DIR$/PracticeDraw7" />
+            <option value="$PROJECT_DIR$/example" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
